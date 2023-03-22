@@ -53,15 +53,15 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
+global.nomorbot = '94774500937' //Nomor Bot
+global.nomorown = '94774500937' //Nomor Owner
 global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nameown = 'danupa' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['94774500937', 'danupa', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+94 774500937'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
