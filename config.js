@@ -55,7 +55,7 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '94774500937' //Nomor Bot
 global.nomorown = '94774500937' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
+global.namebot = 'WA VIVU-v1' //Nama Bot
 global.nameown = 'danupa' // Nama Owner
 
 
